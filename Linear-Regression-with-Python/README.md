@@ -1,5 +1,5 @@
-Course Objectives
-In this course, we are going to focus on two learning objectives:
+### Course Objectives
+# In this course, we are going to focus on two learning objectives:
 1. Create a linear model, and implement gradient descent.
 2. Train the linear model to fit given data with gradient descent.
 By the end of this course, you will be able to solve linear regression problems using Python and Numpy!
